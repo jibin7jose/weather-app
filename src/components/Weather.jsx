@@ -68,7 +68,7 @@ const Weather = () => {
         }
     }
         useEffect(()=>{
-            search("Landon");
+            search("London");
         },[])
         
   return (
